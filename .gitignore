@@ -33,6 +33,7 @@ terminate($request
 send()
 .styleci.yml
 composer.lock
+vite.config.js
 .editorconfig
  .gitattributes
 
